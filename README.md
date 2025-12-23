@@ -1,3 +1,14 @@
+> ⚠️ **Fork & Contribution Notice**  
+> This repository is forked from the original project:  
+> https://github.com/weishanlee/pinnGraphene  
+>  
+> I participated in this project as a collaborator and contributor.  
+> My contributions include implementation support, code testing, documentation assistance,  
+> and technical discussions.  
+>  
+> The core methodology, model architecture, mathematical formulation, and training strategy  
+> were primarily developed and led by the original authors.
+
 # Symmetry-Constrained Multi-Scale Physics-Informed Neural Networks for Graphene Electronic Band Structure
 
 Paper announced arXiv preprint: arXiv:2508.10718 [cs.LG] 
